@@ -29,6 +29,24 @@ This project segments customers using:
 | 2 | VIP Customers  |
 | 3 | Whale Customers  |
 
+---
+
+## PCA Visualization
+
+![PCA Visualization](images/pca_visualization.png)
+
+The PCA plot reduces the 3-dimensional RFM features into 2 dimensions to visualize customer segments.
+
+---
+
+## Anomaly Detection
+
+![Anomaly Detection](images/anomaly_detection.png)
+
+Isolation Forest identifies unusual customers whose purchasing behavior is significantly different from the majority.
+
+---
+
 ## Business Insights
 
 - Lost Customers → Re-engagement campaigns.
