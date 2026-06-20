@@ -9,6 +9,26 @@ This project segments customers using:
 - PCA Visualization
 - Isolation Forest for Anomaly Detection
 
+## 📂 Dataset
+
+**Dataset:** Online Retail Dataset
+
+**Source:** Kaggle
+
+🔗 Dataset Link: https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset
+
+The dataset contains:
+
+- Invoice information
+- Customer IDs
+- Product descriptions
+- Quantity purchased
+- Invoice dates
+- Unit prices
+- Country information
+
+---
+
 ## Steps Performed
 
 1. Data Cleaning
