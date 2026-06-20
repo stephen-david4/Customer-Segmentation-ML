@@ -1,4 +1,4 @@
-<img width="1045" height="621" alt="image" src="https://github.com/user-attachments/assets/7d697fa1-46a6-4447-8aa3-15e0d96224fc" /># Customer Segmentation using RFM Analysis and Machine Learning
+# Customer Segmentation using RFM Analysis and Machine Learning
 
 ## Project Overview
 
