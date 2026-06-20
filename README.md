@@ -1,4 +1,4 @@
-# Customer Segmentation using RFM Analysis and Machine Learning
+<img width="1045" height="621" alt="image" src="https://github.com/user-attachments/assets/7d697fa1-46a6-4447-8aa3-15e0d96224fc" /># Customer Segmentation using RFM Analysis and Machine Learning
 
 ## Project Overview
 
@@ -33,7 +33,8 @@ This project segments customers using:
 
 ## PCA Visualization
 
-![PCA Visualization](images/pca_visualization.png)
+<img width="1022" height="722" alt="image" src="https://github.com/user-attachments/assets/71a337d3-7ea9-4f5c-a2c4-7c049a1b4a07" />
+
 
 The PCA plot reduces the 3-dimensional RFM features into 2 dimensions to visualize customer segments.
 
@@ -41,7 +42,8 @@ The PCA plot reduces the 3-dimensional RFM features into 2 dimensions to visuali
 
 ## Anomaly Detection
 
-![Anomaly Detection](images/anomaly_detection.png)
+<img width="1045" height="621" alt="image" src="https://github.com/user-attachments/assets/70a92721-da0c-4697-91ba-9b061c7c3a33" />
+
 
 Isolation Forest identifies unusual customers whose purchasing behavior is significantly different from the majority.
 
